@@ -75,13 +75,6 @@ Currently focused on deepening my understanding of distributed systems, database
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shiva0025&theme=github-dark&hide_border=true" height="150"/>
-</p>
-
----
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
