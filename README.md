@@ -25,7 +25,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Mini_Shop_cart](https://github.com/Shiva0025/Mini_Shop_cart) | Shopping cart with JDBC & transaction locking | Java |
-| [C_Project](https://github.com/Shiva0025/C_Project) | Railway ticket booking with file persistence | C |
+| [Serveez](https://github.com/Shiva0025/Serveez) | Local Services Marketplace Platform | Java |
 | [Distributed-Tracer](https://github.com/Shiva0025/Distributed-Tracer) | Request flow tracer across services | C |
 
 ---
