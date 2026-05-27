@@ -8,7 +8,7 @@
 ## 🚀 What I Build
 - 🔧 **Systems tools** — distributed tracers, file-persistent apps in C  
 - ☕ **Backend apps** — Java + JDBC + transaction-safe database layers  
-- 🐍 **Algorithms** — optimization & problem-solving in Python  
+- 🐍 **Algorithms** — optimization & problem-solving in CPP
 
 ---
 
