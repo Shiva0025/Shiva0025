@@ -1,7 +1,7 @@
 <h1 align="center">Madire Shiva Reddy</h1>
 
 <p align="center">
-  <b>Backend Developer · Systems Programmer · Competitive Programmer</b><br/>
+  <b>Backend Developer · Systems Programmer </b><br/>
   B.Tech Computer Science · IIIT Bangalore
 </p>
 
